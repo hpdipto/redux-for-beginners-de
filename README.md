@@ -1,3 +1,12 @@
+# Redux for Beginners
+
+The source code of this repository is taken from Dev Ed's [Redux For Beginners _ React Redux Tutorial](https://www.youtube.com/watch?v=CVpUuw9XSjY) video.
+
+This is a concise but really a nice tutorial. I would highly recommend anyone who wanted to start with Redux.
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
